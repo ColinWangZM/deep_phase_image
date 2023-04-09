@@ -1,0 +1,2 @@
+‘0616_all.ipynb’；‘pyrdine_all.ipynb’；‘saifen_all.ipynb’对应三组数据。
+‘pyrdine_1.ipynb’选取了pyrdine组里的第一个cif文件，显示了其中各原子的坐标数据和灰度、大小的数据。
